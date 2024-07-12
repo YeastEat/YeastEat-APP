@@ -1,1 +1,0 @@
- /Users/user/Desktop/project/YeastEat/App/YeastEat-APP/.dart_tool/flutter_build/0eb2dc136cfc71a70e9e8e1f60a3fd1d/native_assets.yaml: 
